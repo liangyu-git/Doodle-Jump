@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>pic/monster1.png</file>
+        <file>pic/monster2.png</file>
+        <file>pic/monster3.png</file>
+        <file>pic/monster4.png</file>
+        <file>pic/fireball.png</file>
+        <file>pic/left.png</file>
+        <file>pic/right.png</file>
+        <file>pic/up.png</file>
+        <file>pic/plate.png</file>
+        <file>pic/white.png</file>
+        <file>pic/hat.png</file>
+        <file>pic/rocket.png</file>
+        <file>pic/withHat.png</file>
+        <file>pic/withRocket.png</file>
+        <file>pic/black.png</file>
+        <file>pic/shield.png</file>
+        <file>pic/withShield.png</file>
+        <file>pic/doodleShield.png</file>
+        <file>pic/brokenWood.png</file>
+        <file>pic/wood.png</file>
+    </qresource>
+</RCC>
